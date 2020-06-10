@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-folders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Eslint rule for consistent folder names.",
   "main": "index.js",
   "scripts": {
