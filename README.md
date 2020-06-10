@@ -1,4 +1,4 @@
-# eslint-plugin-filenames
+# eslint-plugin-folders
 
 Adds [eslint](http://eslint.org/) rules to ensure consistent folder names for your javascript files.
 
