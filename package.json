@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-folders",
+  "version": "1.0.0",
+  "description": "Eslint rule for consistent folder names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": "*"
+  },
+  "author": "Chris Banks <github@christopherbradleybanks.com>",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "folder",
+    "folders",
+    "path"
+  ]
+}
