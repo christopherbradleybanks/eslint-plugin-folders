@@ -18,5 +18,9 @@
     "folder",
     "folders",
     "path"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christopherbradleybanks/eslint-plugin-folders.git"
+  }
 }
