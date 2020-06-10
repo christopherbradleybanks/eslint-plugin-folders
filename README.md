@@ -31,7 +31,7 @@ The convention can be configured using a regular expression (the default is `cam
 the root of the project is defined with a second configuration parameter.
 
 ```json
-"filenames/match-regex": [2, "^[a-z_]+$", '/work/']
+"folders/match-regex": [2, "^[a-z_]+$", '/work/']
 ```
 
 With these configuration options, any folder beneath the **/work/** directory `camelCase` will be reported as an error while `snake_case` will pass.
