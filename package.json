@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-folders",
-  "version": "1.0.3",
+  "name": "eslint-plugin-folders2",
+  "version": "0.0.1",
   "description": "Eslint rule for consistent folder names.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "peerDependencies": {
     "eslint": "*"
   },
-  "author": "Chris Banks <github@christopherbradleybanks.com>",
+  "author": "Pajarraco <https://github.com/pajarraco>",
   "license": "MIT",
   "keywords": [
     "eslint",
@@ -21,6 +21,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/christopherbradleybanks/eslint-plugin-folders.git"
+    "url": "git+ssh://git@github.com/pajarraco/eslint-plugin-folders.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pajarraco/eslint-plugin-folders/issues"
+  },
+  "homepage": "https://github.com/pajarraco/eslint-plugin-folders#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
